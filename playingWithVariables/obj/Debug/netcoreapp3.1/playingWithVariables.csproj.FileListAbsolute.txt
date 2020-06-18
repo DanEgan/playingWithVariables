@@ -1,0 +1,13 @@
+C:\Users\Dan's Computer\source\repos\playingWithVariablesConsole\playingWithVariables\bin\Debug\netcoreapp3.1\playingWithVariables.exe
+C:\Users\Dan's Computer\source\repos\playingWithVariablesConsole\playingWithVariables\bin\Debug\netcoreapp3.1\playingWithVariables.deps.json
+C:\Users\Dan's Computer\source\repos\playingWithVariablesConsole\playingWithVariables\bin\Debug\netcoreapp3.1\playingWithVariables.runtimeconfig.json
+C:\Users\Dan's Computer\source\repos\playingWithVariablesConsole\playingWithVariables\bin\Debug\netcoreapp3.1\playingWithVariables.runtimeconfig.dev.json
+C:\Users\Dan's Computer\source\repos\playingWithVariablesConsole\playingWithVariables\bin\Debug\netcoreapp3.1\playingWithVariables.dll
+C:\Users\Dan's Computer\source\repos\playingWithVariablesConsole\playingWithVariables\bin\Debug\netcoreapp3.1\playingWithVariables.pdb
+C:\Users\Dan's Computer\source\repos\playingWithVariablesConsole\playingWithVariables\obj\Debug\netcoreapp3.1\playingWithVariables.csprojAssemblyReference.cache
+C:\Users\Dan's Computer\source\repos\playingWithVariablesConsole\playingWithVariables\obj\Debug\netcoreapp3.1\playingWithVariables.AssemblyInfoInputs.cache
+C:\Users\Dan's Computer\source\repos\playingWithVariablesConsole\playingWithVariables\obj\Debug\netcoreapp3.1\playingWithVariables.AssemblyInfo.cs
+C:\Users\Dan's Computer\source\repos\playingWithVariablesConsole\playingWithVariables\obj\Debug\netcoreapp3.1\playingWithVariables.csproj.CoreCompileInputs.cache
+C:\Users\Dan's Computer\source\repos\playingWithVariablesConsole\playingWithVariables\obj\Debug\netcoreapp3.1\playingWithVariables.dll
+C:\Users\Dan's Computer\source\repos\playingWithVariablesConsole\playingWithVariables\obj\Debug\netcoreapp3.1\playingWithVariables.pdb
+C:\Users\Dan's Computer\source\repos\playingWithVariablesConsole\playingWithVariables\obj\Debug\netcoreapp3.1\playingWithVariables.genruntimeconfig.cache
